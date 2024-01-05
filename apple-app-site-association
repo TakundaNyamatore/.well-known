@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"details": [{
+			"appIDs": ["5A6FUZWAB5.com.slimmingworld.Links"],
+			"components": [{
+				"/": "/verify-email/app",
+				"comment": "Matches the email verification URl"
+			}]
+		}]
+	}
+}
