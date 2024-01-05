@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.slimmingworld.uk",
+      "sha256_cert_fingerprints": [
+        "C8:F6:67:42:73:6F:8F:32:87:05:4D:FC:62:41:88:FC:09:95:F9:3A:2A:14:D3:DF:86:07:34:6F:08:A0:14:C7"
+      ]
+    }
+  }
+]
