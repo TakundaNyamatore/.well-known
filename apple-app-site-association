@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"details": [{
-			"appIDs": ["5A6FUZWAB5.com.slimmingworld.Links"],
-			"components": [{
-				"/": "/verify-email/app",
-				"comment": "Matches the email verification URl"
-			}]
-		}]
-	}
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "5A6FUZWAB5.tv.uk.slimmingworld",
+             "paths": [ "/features/*", "/activity-videos/*" "/podcast/*" ] 
+           }
+       ]
+   }
 }
